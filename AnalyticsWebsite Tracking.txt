@@ -1,0 +1,26 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127376396-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127376396-1');
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Juny Engelhart",
+  "url": "https://juntechpc.ga/",
+  "image": "https://pbs.twimg.com/profile_images/1168095683678806018/ICZTZWoX_400x400.jpg",
+  "sameAs": "https://twitter.com/JUNTECHPC",
+  "jobTitle": "Manager",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "JunTechPC"
+  }  
+}
+</script>
+

@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Juny Engelhart",
+  "url": "https://juntechpc.ga",
+  "image": "https://pbs.twimg.com/profile_images/1153595846287601665/RDrentjv_200x200.png",
+  "sameAs": [
+    "https://twitter.com/JUNTECHPC",
+    "https://www.facebook.com/juntechpc",
+    "https://www.youtube.com/channel/UCXS08ymaUotD9w72wv_Yq4g"
+  ],
+  "jobTitle": "Computer Technician",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "JunTechPC - Your Computer Solution"
+  }  
+}
+</script>

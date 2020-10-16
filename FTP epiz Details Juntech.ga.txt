@@ -1,0 +1,5 @@
+FTP Username	epiz_24077250
+FTP Password	h5Mk9uDvF3d
+
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21

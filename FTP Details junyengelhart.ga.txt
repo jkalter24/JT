@@ -1,0 +1,16 @@
+FTP Details
+
+Please login to the control panel to enable FTP and file manager access.
+
+FTP Username	
+epiz_26596330
+
+FTP Password 
+khFgc7KqvX82cKt
+
+
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21
+
+Domain Names
+junyengelhart.ga	

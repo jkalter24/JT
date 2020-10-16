@@ -1,0 +1,57 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Welcome to JunTechPC",
+    "item": "https://www.juntechpc.ga/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "JunTechPC - A FEW WORDS ABOUT US",
+    "item": "https://www.juntechpc.ga/about-juntechpc.html"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "JunTechPC - Computer Services We Offer!",
+    "item": "https://www.juntechpc.ga/computer-services-Aruba.html"  
+  },{
+    "@type": "ListItem", 
+    "position": 4, 
+    "name": "JunTechPC - For all your computing needs!",
+    "item": "https://www.juntechpc.ga/Contact-juntechpc.html"  
+  }]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "JunTechPC - Your Computer services and solutions",
+  "url": "https://www.juntechpc.ga/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Juny Engelhart",
+  "url": "https://www.juntechpc.ga/index.html",
+  "image": "https://images.app.goo.gl/JM2oFJjxDmbMeY6t7",
+  "sameAs": "https://juntechpc.blogspot.com/",
+  "jobTitle": "Computer Technician/Video Editor/Website Design & SEO/Gamer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "JunTechPC Your Computer services and solutions"
+  }  
+}
+</script>

@@ -1,0 +1,12 @@
+cloudflare juntechpc.ga
+
+juntechpcinfo@gmail.com
+J1q2w3e4r5t
+
+Your API Key
+
+Global API Key
+276d16b92dda55e369f9f08087f77a56b42e9
+
+Origin CA Key
+v1.0-126a8b5599bcc97acfc7620b-4734f25dc3e1f7682411cf1211a5cfcbb2e5d1b1f3f99d785ccc7570dda15e8fa31cd2ba0888249be88800f8ac21998d8cee2016ebca71588c5ad4034b3cfcefe5c30aea43141165

@@ -1,0 +1,56 @@
+Uri: https://juntechpc.8b.io/
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\index.htm
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/manifest.json
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\manifest.json
+Content Type: application/json
+
+Uri: https://juntechpc.8b.io/about-juntechpc.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\about-juntechpc.html
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/computer-services.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\computer-services.html
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/TechNews-juntechpc.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\TechNews-juntechpc.html
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/Contact-juntechpc.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\Contact-juntechpc.html
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/blog-juntechpc.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\blog-juntechpc.html
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/index.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\index.txt
+Content Type: text/plain
+
+Uri: https://juntechpc.8b.io/sw.js
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\sw.js
+Content Type: application/javascript
+
+Uri: https://juntechpc.8b.io/about-us.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\about-us.html
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/our-services.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\our-services.html
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/Tech-news.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\Tech-news.html
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/Contact-us.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\Contact-us.html
+Content Type: text/html
+
+Uri: https://juntechpc.8b.io/technews.html
+File Name: c:\Downloaded Web Sites\juntechpc.8b.io\technews.html
+Content Type: text/html
+
