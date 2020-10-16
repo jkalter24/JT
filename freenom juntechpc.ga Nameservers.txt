@@ -1,8 +1,0 @@
-Managing juntechpc.ga
-
-
-Nameserver 1
-ELLE.NS.CLOUDFLARE.COM
-
-Nameserver 2
-MERLIN.NS.CLOUDFLARE.COM

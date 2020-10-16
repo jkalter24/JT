@@ -1,8 +1,0 @@
-<meta name="title" content="JunTechPC - Computer services and solutions in Aruba">
-<meta name="description" content="JunTechPC is a freelance Computer Services business run by Juny Engelhart. We offer affordable, friendly, fast computer repair services in Aruba.">
-<meta name="keywords" content="computer repair services,  JunTechPC, Juny Engelhart, Computer services and solutions, Aruba, Computer Services & Support, Website Design Services, SEO Services, computer technician, Get Your Computer Fixed NOW!, Computer Service Provider, For all your computing needs!, Computer Services We Offer!">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="language" content="English">
-<meta name="revisit-after" content="2 days">
-<meta name="author" content="Juny Engelhart">
