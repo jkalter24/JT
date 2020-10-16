@@ -1,6 +1,0 @@
-<meta property="og:title" content="Juny Engelhart (JunTechPC)">
-<meta property="og:site_name" content="JunTechPC - Your Computer Solution">
-<meta property="og:url" content="https://juntechpc.ga/">
-<meta property="og:description" content="JunTechPC - Computer Technician/Video Editor/Multimedia Designer/Gamer I'm a Computer technician, I’m a Gamer, and playing video games is something i enjoy in my spare time.">
-<meta property="og:type" content="website">
-<meta property="og:image" content="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a6/a63aa5ed765b002d6b6b1ccda926362efb400aae_full.jpg">
