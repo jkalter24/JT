@@ -1,0 +1,19 @@
+https://app.netlify.com/login/email
+
+
+email: juntechpc@gmx.com
+pw: J12q2w3e4r5t2019
+
+Website:
+ https://juntechpc.netlify.com/
+
+
+
+https://github.com/
+
+Log in info:
+
+JunTechPC
+junbo251f13
+
+https://juntechpc.github.io

@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Your Computer Solution JunTechPC",
+    "item": "https://juntechpc.ga/index.html"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Your personal computer care provider JunTechPC",
+    "item": "https://juntechpc.ga/about-us.html"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Services for All Your Computing Needs JunTechPC",
+    "item": "https://juntechpc.ga/our-services.html"  
+  },{
+    "@type": "ListItem", 
+    "position": 4, 
+    "name": "Technology News & Gaming Content",
+    "item": "https://juntechpc.ga/Tech-news.html"  
+  },{
+    "@type": "ListItem", 
+    "position": 5, 
+    "name": "For all your computing needs! Contact Us",
+    "item": "https://juntechpc.ga/Contact-us.html"  
+  }]
+}
+</script>

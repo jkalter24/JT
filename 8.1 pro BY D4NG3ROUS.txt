@@ -1,0 +1,8 @@
+paso 1: slmgr /ipk GCRJD-8NW9H-F2CDX-CCM8D-9D6T9
+        slmgr /ipk XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB
+
+Paso 2: slmgr /skms kms.digiboy.ir     
+paso 3: slmgr /ato
+
+HN42W-QF3D6-2KM6W-C79XK-JW8XV PRO
+
